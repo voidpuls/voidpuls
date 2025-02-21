@@ -12,7 +12,7 @@ I'm always learning and looking for new challenges.  Feel free to check out my r
 
 ## Current Projects
 
-* **OmniSpark:** This is my main project, a Discord bot built with JavaScript!  Check it out: [https://omnispark.slimecrew.org/](https://omnispark.slimecrew.org/) *(A versatile Discord bot offering [mention key features or functionalities here - e.g., moderation, fun commands, utility tools]).*
+* **OmniSpark:** This is my main project, a Discord bot built with JavaScript!  Check it out: [https://omnispark.slimecrew.org/](https://omnispark.slimecrew.org/) *(A versatile Discord bot offering [moderation, fun commands, utility tools]).*
 * **Minecraft Modpacks:** I also enjoy creating and working on Minecraft modpacks with my community at [slimecrew.org](https://slimecrew.org/).
 
 ## Skills
